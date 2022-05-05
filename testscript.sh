@@ -5,4 +5,5 @@ echo $NUMBER
 echo "this is complete"
 echo "this run automatically"
 echo "TS1"
+echo "TS2"
 
